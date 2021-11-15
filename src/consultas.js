@@ -400,7 +400,7 @@ db.portatiles.find({_id:22}, {"tactil": 1})
 db.portatiles.aggregate([ 
     { $project: 
         { _id: 1,
-            dateDifference: 
+            dif: 
             { $subtract: [ "$precioIVA", "$precio" ] } 
         } 
     } 
