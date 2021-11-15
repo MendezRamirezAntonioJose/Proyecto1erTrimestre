@@ -51,4 +51,6 @@ Aportes personales:
 	- $set
 	- $addToSet
 
+***Dentro de la documentación esta explicada la estructura de datos.***
+
 _Realizado por Antonio José Méndez Ramírez, alumno de 1ºDAM del IES Punta Del Verde_
