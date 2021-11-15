@@ -34,7 +34,8 @@ Se utilizan todos los operadores aprendidos en clase:
     - $all
 
 Aportes personales:
-    - .? en regex
+
+    - ".?" en regex
     - agreggate
     - update
 	- $group
